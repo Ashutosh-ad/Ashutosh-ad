@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Ashutosh-ad/Ashutosh-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on Web Development and solving crucial Tech problems.
 - 🌱 I’m currently learning MERN Stack and JAVA+DSA
 - 👯 I’m looking to collaborate on Open-source projects, innovative app development.
@@ -13,4 +8,4 @@
                       2). https://www.linkedin.com/in/ashutoshdwivedi1103/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  I can solve a Rubik’s cube in under a minute.
--->
+
